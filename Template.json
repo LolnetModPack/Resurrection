@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "Resurrection Package", 
+"title": "Resurrection", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/Resurrection.json", 
+"priority": 1
+}
+]
+}
